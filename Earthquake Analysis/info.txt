@@ -1,0 +1,1 @@
+DATASET OBAINED FROM KAGGLE : All the Earthquakes Dataset : from 1990-2023
