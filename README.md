@@ -11,7 +11,7 @@ Project Title  | Description   |  Topic
 
 
 ## Data Visualization Examples
-Here are some examples of data visualization from the JAMB Score Analysis project
+Here are some examples of data visualization from the JAMB Score Analysis project and Visa Stocks Analysis Project
 
 Analysis of the average JAMB score achieved based on the study hours per week of each participant 
 ![Average Jamb Score](https://github.com/user-attachments/assets/a37baa76-9a3f-4ac6-8c44-03347f89276c)
