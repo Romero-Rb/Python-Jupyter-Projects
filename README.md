@@ -1,4 +1,4 @@
-# Romero's Python Projects
+# Data Analysis Jupyter Notebook
 
 This is a repository to display my projects utilizing python with jupyter notebooks. Some of the projects I have done include the following:
 
